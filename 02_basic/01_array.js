@@ -1,34 +1,34 @@
 const arr = [1, 2, 3, 4, 5];
-// const heros = ["Batman", "Superman", "Flash", "Wonder Woman"];
-// console.log(arr);
-// console.log(heros);
+const heros = ["Batman", "Superman", "Flash", "Wonder Woman"];
+console.log(arr);
+console.log(heros);
 
-// const arr2 = new Array(1, 2, 3, 4);
+const arr2 = new Array(1, 2, 3, 4);
 
-// console.log(arr[4]);
-// console.log(typeof (heros));
+console.log(arr[4]);
+console.log(typeof (heros));
 
-// arr.push(6);
-// heros.push("Aquaman");
-// console.log(arr);
-// console.log(heros);
+arr.push(6);
+heros.push("Aquaman");
+console.log(arr);
+console.log(heros);
 
-// arr.pop();
-// console.log(arr);
+arr.pop();
+console.log(arr);
 
-// arr.unshift(7)
-// console.log(arr);
-// arr.shift()
-// console.log(arr);
+arr.unshift(7)
+console.log(arr);
+arr.shift()
+console.log(arr);
 
-// console.log(arr.includes(6));
-// console.log(arr.indexOf(3));
-// console.log(arr);
+console.log(arr.includes(6));
+console.log(arr.indexOf(3));
+console.log(arr);
 
-// const newArr = arr.join()
-// console.log(arr);
-// console.log(newArr);
-// console.log(typeof newArr);
+const newArr = arr.join()
+console.log(arr);
+console.log(newArr);
+console.log(typeof newArr);
 
 // ? slice , splice
 
