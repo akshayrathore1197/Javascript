@@ -1,4 +1,4 @@
-// let score = "33abc";
+let score = "33abc";
 // console.log(score);
 
 // console.log(typeof score);
@@ -21,6 +21,7 @@
 // let someNum = 0
 // let stringNum = String(someNum)
 // console.log(stringNum);
+// console.log(typeof  stringNum); 
 
 // **********************Operation****************************
 
@@ -36,11 +37,11 @@
 // console.log(2 % 2);
 
 
-// let str1 = "Akshay"
-// let str2 = " Rathore"
+let str1 = "Akshay"
+let str2 = " Rathore"
 
-// let str3 = str1+str2
-// console.log(str3);
+let str3 = str1+str2
+console.log(str3);
 
 // console.log("1" + 2);
 // console.log(1 + "2" + 2 + 2);
@@ -52,7 +53,7 @@
 // console.log(+"");
 // console.log(-"");
 
-let gaemCounter = 100
-console.log(gaemCounter);
-gaemCounter++
-console.log(gaemCounter);
+let gameCounter = 100
+console.log(gameCounter);
+gameCounter++
+console.log(gameCounter);

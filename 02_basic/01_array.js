@@ -1,12 +1,12 @@
 const arr = [1, 2, 3, 4, 5];
 const heros = ["Batman", "Superman", "Flash", "Wonder Woman"];
-console.log(arr);
-console.log(heros);
+// console.log(arr);
+// console.log(heros);
 
 const arr2 = new Array(1, 2, 3, 4);
 
-console.log(arr[4]);
-console.log(typeof (heros));
+// console.log(arr[4]);
+// console.log(typeof (heros));
 
 arr.push(6);
 heros.push("Aquaman");

@@ -13,13 +13,13 @@ let name = "Akshay"
 let age = 19
 let isLoggedin = true
 
-// numer => 2 to power 53
+// number => 2 to power 53
 // bigint
 // string => " "
 // Boolean =>true/false
-//null => standalone value
+//null => stand alone value
 // undefined => value not assigned
-// null => value not assigned
+// null =>nothing
 // symbol => unique
 
 //object

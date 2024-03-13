@@ -14,17 +14,17 @@ const nm = new String("Akshay")
 // console.log(nm.__proto__);
 
 
-// console.log(nm.length);
-// console.log(nm.toLowerCase());
-// console.log(nm.toUpperCase());
-// console.log(nm.charAt(4));
-// console.log(nm.indexOf("k"));
+console.log(nm.length);
+console.log(nm.toLowerCase());
+console.log(nm.toUpperCase());
+console.log(nm.charAt(4));
+console.log(nm.indexOf("k"));
 
-// const newSub = nm.substring(5,0)
-// console.log(newSub);
+const newSub = nm.substring(1,0) 
+console.log(newSub);
 
-// const newSub1 = nm.slice(-7,6)
-// console.log(newSub1);
+const newSub1 = nm.slice(-7,6)  //*  -ve index starts from the end of string
+console.log(newSub1);
 
 // const newString = "         Akshay                 k   "
 // console.log(newString);
@@ -35,4 +35,5 @@ console.log(url);
 console.log(url.replace("%20","-"));
 console.log(url.includes('sundar'));
 console.log(url.includes('akshay'));
-console.log(url.split("/"));
+console.log(url.split("/")); 
+console.log(url.split("ak")); 
