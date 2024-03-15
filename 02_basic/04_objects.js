@@ -60,9 +60,11 @@ console.log(user[1].id);
 
 console.log(Object.keys(tinderuser));
 console.log(Object.values(tinderuser));
+// console.log(Object.values(user));
 console.log(Object.entries(tinderuser));
+console.log(Object.entries(user));
 
-console.log(tinderuser.hasOwnProperty("email"));
+console.log(tinderuser.hasOwnProperty("id"));
 
 const course = {
   coursename: "Learning Js",
@@ -73,7 +75,10 @@ const course = {
 // course.courseInstructor
 
 const { courseInstructor: instructor } = course;
+const{price : p}  = course
+
 console.log(instructor);
+console.log(p);
 
 
 // {

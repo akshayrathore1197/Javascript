@@ -38,12 +38,12 @@ function loginUserMessage(username = "Person") {
 function calculatecartPrice(...cartItem) {
   return cartItem;
 }
-// console.log(calculatecartPrice(100,200,300));
+console.log(calculatecartPrice(100,200,300,44));
 
 function calculatecartPrice1(val1, val2, ...cartItem) {
   return cartItem;
 }
-// console.log(calculatecartPrice1(100, 200, 300));
+console.log(calculatecartPrice1(100, 200, 300));
 
 var Obj = {
   username: "akshay",

@@ -12,6 +12,7 @@ const user ={
 // user.welocmeMessage()
 // user.username = "meenakshi"
 // user.welocmeMessage()
+// console.log(user);
 // console.log(this);
 
 // function chai(){
@@ -25,14 +26,15 @@ const user ={
 //     let username = "akshay"
 //    console.log(this.username) ;
 // }
+
 // chai();
 
 
-// const chai = ()  => {
-//     let username = "akshay"
-//    console.log(this.username) ;
-// }
-// chai();
+const chai = ()  => {
+    let username = "akshay"
+   console.log(this.username) ;
+}
+chai();
 
 
 // const addTwo = (num1,num2) => {
