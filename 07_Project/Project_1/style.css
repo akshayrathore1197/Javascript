@@ -1,0 +1,70 @@
+.body {
+   
+    display: block;
+    margin-left: 35%;
+    margin-top: 15%;
+    width: 30%;
+}
+
+.button {
+    border: 2px solid black;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+   
+    text-align: center;
+}
+#White{
+    background-color: white;
+}
+#Grey{
+    background-color: gray;
+}
+#Green{
+    background-color: green;
+}
+#Blue{
+    background-color: blue;
+}
+#Yellow{
+    background-color: yellow;
+}
+#Red {
+    background-color: red;
+}
+#Orange {
+    background-color: orange;
+}
+#Purple {
+    background-color: purple;
+}
+#Pink {
+    background-color: pink; 
+}
+#Brown {
+    background-color: brown;
+}
+#Teal {
+    background-color: teal;
+}
+#Indigo {
+    background-color: indigo;
+}
+#Crimson {
+    background-color: crimson;
+}
+#Magenta {
+    background-color: magenta;
+}
+#Lime {
+    background-color: lime;
+}
+#Maroon {
+    background-color: maroon;
+}
+#Olive {
+    background-color: olive;
+}
+#Navy {
+    background-color: navy;
+}
